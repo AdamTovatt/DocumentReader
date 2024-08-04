@@ -1,4 +1,4 @@
-﻿namespace CarelessApi.Models.Vectors
+﻿namespace DocumentReader.Models.Vectors
 {
     /// <summary>
     /// A vector data object

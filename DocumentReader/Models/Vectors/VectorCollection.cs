@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace CarelessApi.Models.Vectors
+namespace DocumentReader.Models.Vectors
 {
     public class VectorCollection<T>
         where T : IVectorObject

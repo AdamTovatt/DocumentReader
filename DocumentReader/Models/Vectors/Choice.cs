@@ -1,7 +1,7 @@
 ﻿using DocumentReader;
 using DocumentReader.Repositories;
 
-namespace CarelessApi.Models.Vectors
+namespace DocumentReader.Models.Vectors
 {
     public class Choice<T>
     {

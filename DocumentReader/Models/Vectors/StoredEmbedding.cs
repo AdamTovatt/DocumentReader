@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace CarelessApi.Models.Vectors
+namespace DocumentReader.Models.Vectors
 {
     public class StoredEmbedding : IVectorObject
     {

@@ -1,4 +1,4 @@
-﻿using CarelessApi.Models.Vectors;
+﻿using DocumentReader.Models.Vectors;
 
 namespace DocumentReader.Repositories
 {
